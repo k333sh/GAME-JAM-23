@@ -3,7 +3,7 @@ Repository for game jam 2023
 
 
 <h2>Description</h2>
-Project developed on godot for a previously attended game jam , made a simple 2d base game to completion in a couple of hours with the aid of multiple teammates 
+I collaborated with other developers to build a simple 2d game in under 12 hours using Godot.
 <br />
 
 
